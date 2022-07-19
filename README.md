@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**audrianaandrews/audrianaandrews** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About Me
 
-Here are some ideas to get you started:
+Hi, my name is Audriana and for over 5 years I have been building and updating accessible and SEO-friendly websites on various platforms. Websites that improve your presence on the internet so you can generate more business or help you get your message out there.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Not only do I build websites but I can also update and fix any problems you may be having including:
+
+    Bug fixing
+    Making websites responsive
+    Accessibility upgrades
+    Adding new custom page templates or areas
+
+I have experience building and fixing static websites as well as websites for various CMSes such as WordPress and Kentico.
