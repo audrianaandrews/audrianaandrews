@@ -2,13 +2,18 @@
 
 ## About Me
 
-Hi, my name is Audriana and for over 5 years I have been building and updating accessible and SEO-friendly websites on various platforms. Websites that improve your presence on the internet so you can generate more business or help you get your message out there.
-
-Not only do I build websites but I can also update and fix any problems you may be having including:
+Hi, my name is Audriana, and for over 7 years, I have been working as a front-end developer. I specialize in creating the look and feel of websites, ensuring they are user-friendly and, most importantly, accessible for different kinds of users. My experience includes building websites that:
 
     Bug fixing
     Making websites responsive
     Accessibility upgrades
     Adding new custom page templates or areas
 
-I have experience building and fixing static websites as well as websites for various CMSes such as WordPress and Kentico.
+Not only do I build websites, but I can also update and fix any problems with your current site, including but not limited to:
+
+    Addressing any bugs or broken parts of your site
+    Making your website responsive
+    Conducting accessibility audits and implementing upgrades
+    Adding new custom pages or sections to your site
+
+Currently, I am employed as a front-end developer at Sun Life.
