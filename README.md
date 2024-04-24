@@ -1,6 +1,6 @@
 # Hello World
 
-My name is Audriana and as a Front-end Developer, I am passionate about creating user-friendly and accessible websites and web applications. I work with a team of developers and designers to deliver high-quality products that meet our clients' and users' needs and expectations. My experience includes building websites and web applications that:
+My name is Audriana and as a Front-end Developer, I am passionate about creating user-friendly and accessible websites and web applications. My experience includes building websites and web applications that:
 
 * Are static, using just HTML, CSS, and some JavaScript
 * Utilize CMSes such as WordPress and Kentico
